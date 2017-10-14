@@ -23,7 +23,7 @@
   "main": "./highlight.js",
   "engines": {
     "node": "*"
-  }
+  },
   "files": [
     "styles/*.css"
   ]
